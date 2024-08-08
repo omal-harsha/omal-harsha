@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm omal harsha</h1>
 <h3 align="center">A passionate full-stack developer from sri lanka</h3>
 
-- 🤝 I’m currently working at **CODE FUSION TECHNOLOGY PTE. LTD.**
+- 🤝 I’m currently working at **Al Asas Information Technology.**
 
 - 👨‍💻 All of my projects are available at [www.omalharsha.me](www.omalharsha.me)
 

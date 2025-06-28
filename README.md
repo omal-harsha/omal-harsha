@@ -3,7 +3,7 @@
 
 - 🤝 I’m currently working at **Al Asas Information Technology.**
 
-- 👨‍💻 All of my projects are available at [www.omalharsha.me](www.omalharsha.me)
+- 👨‍💻 All of my projects are available at [www.omalharsha.dev](www.omalharsha.dev)
 
 - 📫 How to reach me **omalharshanuwan@gmail.com**
 
